@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://username.github.io/my-backlinks/sitemap.xml
+Sitemap: https://educationvives.github.io/my-backlinks/sitemap.xml
